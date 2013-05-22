@@ -1,0 +1,4 @@
+[B]Version 0.0.2[/B]
+- Catch xml fetching failure / Näita xmli hankimise nurjumisel veateadet
+[B]Version 0.0.1[/B]
+- Initial release / Esmane väljalase
