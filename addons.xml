@@ -2,6 +2,27 @@
 
 <addons>
 
+<addon id="plugin.video.etv.ee" version="0.0.2" name="ETV" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
+    <requires>
+        <import addon="xbmc.python" version="2.0"/>
+        <import addon="script.module.buggalo" version="1.1.2"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Watch ETV video archive</summary>
+        <summary lang="et">Vaata ETV arhiivis olevaid saated</summary>
+        <description lang="en">This plugin allows you to see shows from http://etv.err.ee/arhiiv.php .</description>
+	<description lang="et">Selle plugina abil saate vaadata http://etv.err.ee/arhiiv.php olevaid saateid.</description>
+        <disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with your local laws. Plugin is as-is, without any warranty.</disclaimer>
+        <disclaimer lang="et">Plugin on as-is ilma igasuguse garantiita.</disclaimer>
+        <license>GPLv2</license>
+        <platform>all</platform>
+        <language>et</language>
+    </extension>
+</addon>
+
 <addon id="plugin.video.kanal2.ee" version="0.0.2" name="Kanal2" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
     <requires>
         <import addon="xbmc.python" version="2.0"/>
