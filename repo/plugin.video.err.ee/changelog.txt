@@ -1,2 +1,4 @@
+[B]Version 0.0.4[/B]
+- Gotham support / Gothami tugi
 [B]Version 0.0.1[/B]
 - Initial release / Esmane väljalase
