@@ -1,2 +1,6 @@
+[B]Version 0.0.3[/B]
+- Make number of days to show configurable
+[B]Version 0.0.2[/B]
+- Updated in repo
 [B]Version 0.0.1[/B]
 - Initial release
