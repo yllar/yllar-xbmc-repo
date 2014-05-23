@@ -1,0 +1,11 @@
+[B]Version 0.0.3[/B]
+- Support for new tv.delfi.ee / tv.delfi.ee tugi
+- Known issue: LV & LT delfi support is broken :( / delfi LV ja LT tugi katki :(
+- Fixed first run connection error / Esimesel käivitusel ei tule enam võrguühenduse viga 
+- Support for XBMC 13 Gotham / XBMC 13 Gothami tugi
+[B]Version 0.0.2[/B]
+- Support multiple live setreams / Mitme Live TV voo tugi
+- Unicode error messages / Unicode veateated
+- Fixed video name in Now Playing list / Hetkel mängib nimekirjas näidatakse vide õiget nime
+[B]Version 0.0.1[/B]
+- Initial release / Esmane väljalase
