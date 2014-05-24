@@ -1,3 +1,5 @@
+[B]Version 0.0.8[/B]
+- List more shows / Kuva rohkem saateid
 [B]Version 0.0.7[/B]
 - Fix show listing / Parandatud saadete nimekirja leidmine
 [B]Version 0.0.6[/B]

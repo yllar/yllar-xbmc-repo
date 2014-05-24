@@ -65,7 +65,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.kanal2.ee" version="0.0.7" name="Kanal2" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
+<addon id="plugin.video.kanal2.ee" version="0.0.8" name="Kanal2" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.buggalo" version="1.1.2"/>
