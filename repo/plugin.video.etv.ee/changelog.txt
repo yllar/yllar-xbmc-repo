@@ -1,3 +1,5 @@
+[B]Version 0.0.8[/B]
+- Add urls for live streams / Otsevaatamise lingid
 [B]Version 0.0.6[/B]
 - Make it work with new page / Uue lehe tugi
 - support ETV & ETV2 / ETV ja ETV2 tugi
