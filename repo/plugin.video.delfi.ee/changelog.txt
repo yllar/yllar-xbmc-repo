@@ -1,3 +1,5 @@
+[B]Version 0.0.4[/B]
+- fix live streaming / otseülekannete aadresside leidmise parandus
 [B]Version 0.0.3[/B]
 - Support for new tv.delfi.ee / tv.delfi.ee tugi
 - Known issue: LV & LT delfi support is broken :( / delfi LV ja LT tugi katki :(
