@@ -1,3 +1,5 @@
+[B]Version 0.0.5[/B]
+- Fixes for site changes
 [B]Version 0.0.4[/B]
 - Gotham support / Gothami tugi
 [B]Version 0.0.1[/B]
