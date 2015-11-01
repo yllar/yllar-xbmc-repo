@@ -1,3 +1,5 @@
+[B]Version 0.0.10[/B]
+- Fix show listing / Parandatud saadete nimekirja leidmine, tänud Tambet 
 [B]Version 0.0.9[/B]
 - Fix playback on Raspberry Pi (tested on OpenELEC) if it doesn't work, file a bug via https://github.com/yllar/plugin.video.kanal2.ee / Plugin peaks nüüd jäle Raspberry Pi peal töötama, kui ei, siis paluks bugi: https://github.com/yllar/plugin.video.kanal2.ee
 [B]Version 0.0.8[/B]
