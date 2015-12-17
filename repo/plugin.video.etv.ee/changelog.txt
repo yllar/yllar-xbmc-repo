@@ -1,3 +1,5 @@
+[B]Version 0.0.9[/B]
+- Added support for ETV+ / ETV+ tugi
 [B]Version 0.0.8[/B]
 - Add urls for live streams / Otsevaatamise lingid
 [B]Version 0.0.6[/B]
