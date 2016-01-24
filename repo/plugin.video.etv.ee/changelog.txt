@@ -1,3 +1,5 @@
+[B]Version 0.0.11[/B]
+- Fixed Buggalo url / Buggalo urli parandus
 [B]Version 0.0.10[/B]
 - Fixed typo / näpuvea parandus
 [B]Version 0.0.9[/B]
