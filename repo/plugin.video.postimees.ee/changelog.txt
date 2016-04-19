@@ -1,0 +1,7 @@
+[B]Version 0.0.3[/B]
+- Show starting time if available / Näita ülekande algusaega
+- Try more keywords to find live streams / Kasuta otseülekannete leidmiseks rohkem märksõnu
+[B]Version 0.0.2[/B]
+- Fix to actually show ongoing streams - Parandus otseülekannete leidmiseks
+[B]Version 0.0.1[/B]
+- Initial release / Esmane väljalase
