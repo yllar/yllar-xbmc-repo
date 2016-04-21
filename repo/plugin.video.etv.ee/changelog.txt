@@ -1,3 +1,5 @@
+[B]Version 0.0.13[/B]
+- Add settings to choose subtitle language preferences / Lisatud seadetesse võimalus valida subtiitrite eelistuste järjekord
 [B]Version 0.0.12[/B]
 - Changed live stream urls to have HD quality / Otsevaatamise urlide muutus,et oleks võimalik HD pilti vaadata
 - Subtitle support, can be toggled in settings / Subtiitrite tugi, saab seadete alt lubada/keelata
