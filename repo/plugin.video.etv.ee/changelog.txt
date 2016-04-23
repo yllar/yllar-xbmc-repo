@@ -1,3 +1,5 @@
+[B]Version 0.0.14[/B]
+- Fix subtitle settings / Subtiitrite seadete parandus
 [B]Version 0.0.13[/B]
 - Add settings to choose subtitle language preferences / Lisatud seadetesse võimalus valida subtiitrite eelistuste järjekord
 [B]Version 0.0.12[/B]
