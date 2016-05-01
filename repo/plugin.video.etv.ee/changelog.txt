@@ -1,3 +1,6 @@
+[B]Version 0.0.15[/B]
+- Fix finding of video urls / Video aadresside leidmise parandus
+- Show only shows that you can actually watch / Näita ainult veebist vaadatavaid saateid
 [B]Version 0.0.14[/B]
 - Fix subtitle settings / Subtiitrite seadete parandus
 [B]Version 0.0.13[/B]
