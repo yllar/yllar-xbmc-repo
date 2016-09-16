@@ -87,7 +87,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.postimees.ee" version="0.0.3" name="Postimees Live" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
+<addon id="plugin.video.postimees.ee" version="0.0.4" name="Postimees Live" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.buggalo" version="1.1.2"/>
