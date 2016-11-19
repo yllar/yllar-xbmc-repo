@@ -1,3 +1,5 @@
+[B]Version 0.0.5[/B]
+- Fix to actually show ongoing streams - Parandus otseülekannete leidmiseks
 [B]Version 0.0.4[/B]
 - Try more keywords to find live streams / Kasuta otseülekannete leidmiseks rohkem märksõnu 
 [B]Version 0.0.3[/B]
