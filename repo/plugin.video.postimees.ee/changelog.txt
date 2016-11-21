@@ -1,3 +1,6 @@
+[B]Version 0.0.7[/B]
+- Workaround for a datetime.strptime bug / datetime.strptime vea lahendus
+- Code cleanup / koodi puhastus
 [B]Version 0.0.6[/B]
 - Fix stuff, return of the start time / Natuke parandusi
 [B]Version 0.0.5[/B]
