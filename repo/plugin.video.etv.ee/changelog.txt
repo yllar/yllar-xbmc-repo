@@ -1,3 +1,5 @@
+[B]Version 0.0.16[/B]
+- refactor + fixes / parandused
 [B]Version 0.0.15[/B]
 - Fix finding of video urls / Video aadresside leidmise parandus
 - Show only shows that you can actually watch / Näita ainult veebist vaadatavaid saateid
