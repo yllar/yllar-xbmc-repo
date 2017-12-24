@@ -1,3 +1,5 @@
+[B]Version 0.0.18[/B]
+- changed live urls / otsevaatamise aadresside uuendus
 [B]Version 0.0.17[/B]
 - fix live urls / otsevaatamise parandus
 [B]Version 0.0.16[/B]
