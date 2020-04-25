@@ -67,6 +67,36 @@
     </extension>
 </addon>
 
+<addon id="plugin.video.jupiter.err.ee" version="0.0.1" name="Jupiter" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Watch content from jupiter.err.ee</summary>
+        <summary lang="et">Vaata jupiter.err.ee sisu</summary>
+        <description lang="en">This plugin allows you to see content from ERR portal jupiter.err.ee</description>
+	<description lang="et">Selle plugina abil saate vaadata jupiter.err.ee sisu</description>
+        <disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with your local laws. Plugin is as-is, without any warranty.</disclaimer>
+        <disclaimer lang="et">Plugin on as-is, ilma igasuguse garantiita.</disclaimer>
+        <license>GPLv2</license>
+        <platform>all</platform>
+        <language>et</language>
+        <news>0.0.1 - esmane väljalase</news>
+    <assets>
+        <icon>resources/icon.png</icon>
+        <fanart>resources/fanart.png</fanart>
+        <banner>resources/banner.png</banner>
+        <screenshot>resources/screenshot-1.jpg</screenshot>
+        <screenshot>resources/screenshot-2.jpg</screenshot>
+        <screenshot>resources/screenshot-3.jpg</screenshot>
+        <screenshot>resources/screenshot-4.jpg</screenshot>
+    </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.kanal2.ee" version="0.0.13" name="Kanal2" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
