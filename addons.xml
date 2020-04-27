@@ -67,7 +67,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.jupiter.err.ee" version="0.0.1" name="Jupiter" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
+<addon id="plugin.video.jupiter.err.ee" version="0.0.2" name="Jupiter" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
     </requires>
@@ -84,7 +84,11 @@
         <license>GPLv2</license>
         <platform>all</platform>
         <language>et</language>
-        <news>0.0.1 - esmane väljalase</news>
+        <news>
+- 0.0.2 - uus valik võimaldab keelata piltide laadimise (kasulik aeglastel seadmetel nagu näiteks RaspberryPi)
+
+- 0.0.1 - esmane väljalase
+        </news>
     <assets>
         <icon>resources/icon.png</icon>
         <fanart>resources/fanart.png</fanart>
