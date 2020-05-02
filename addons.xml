@@ -67,9 +67,8 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.jupiter.err.ee" version="0.0.2" name="Jupiter" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
+<addon id="plugin.video.jupiter.err.ee" version="0.0.3" name="Jupiter" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
     <requires>
-        <import addon="xbmc.python" version="2.25.0"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="addon.py">
         <provides>video</provides>
@@ -85,6 +84,9 @@
         <platform>all</platform>
         <language>et</language>
         <news>
+- 0.0.3 - lisandusid postrid, et lemmikute all oleks saate/sarja pilt näha.
+          Pythoni sõltuvus eemaldatud, et saaks sama pluginat paigaldada nii Leia kui Matrix versioonile. Bugi #1
+
 - 0.0.2 - uus valik võimaldab keelata piltide laadimise (kasulik aeglastel seadmetel nagu näiteks RaspberryPi)
 
 - 0.0.1 - esmane väljalase
