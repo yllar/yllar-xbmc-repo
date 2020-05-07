@@ -126,11 +126,8 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.postimees.ee" version="0.0.15" name="Postimees Pleier" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
+<addon id="plugin.video.postimees.ee" version="0.0.16" name="Postimees Pleier" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
     <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.buggalo" version="1.1.2"/>
-	    <import addon="script.module.beautifulsoup4" version="4.3.1"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="addon.py">
         <provides>video</provides>
@@ -145,6 +142,13 @@
         <license>GPLv2</license>
         <platform>all</platform>
         <language>et</language>
+        <news>
+- 0.0.16 - Kodi Matrix tugi, väikesed muudatused
+        </news>
+        <assets>
+        <icon>resources/icon.png</icon>
+        <fanart>resources/fanart.png</fanart>
+        </assets>
     </extension>
 </addon>
 

@@ -1,3 +1,5 @@
+[B]Version 0.0.16[/B]
+- Kodi Matrix tugi, väikesed parandused
 [B]Version 0.0.15[/B]
 - Show links for  Kanal2, Kanal11, Kanal12 live tv if current show is viewable online / Kanal2, Kanal11 Kanal12 TV lingid kui käimasoleval saatel on veebis näitamise õigused
 [B]Version 0.0.14[/B]
