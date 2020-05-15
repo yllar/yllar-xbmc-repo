@@ -67,7 +67,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.jupiter.err.ee" version="0.0.3" name="Jupiter" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
+<addon id="plugin.video.jupiter.err.ee" version="0.0.4" name="Jupiter" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
     <requires>
     </requires>
     <extension point="xbmc.python.pluginsource" library="addon.py">
@@ -84,6 +84,8 @@
         <platform>all</platform>
         <language>et</language>
         <news>
+- 0.0.4 - Vene kino piltide leidmise parandus, koodipuhastus
+
 - 0.0.3 - lisandusid postrid, et lemmikute all oleks saate/sarja pilt näha.
           Pythoni sõltuvus eemaldatud, et saaks sama pluginat paigaldada nii Leia kui Matrix versioonile. Bugi #1
 
