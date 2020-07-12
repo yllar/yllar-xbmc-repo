@@ -128,7 +128,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.postimees.ee" version="0.0.16" name="Postimees Pleier" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
+<addon id="plugin.video.postimees.ee" version="0.0.17" name="Postimees Pleier" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
     <requires>
     </requires>
     <extension point="xbmc.python.pluginsource" library="addon.py">
@@ -145,6 +145,8 @@
         <platform>all</platform>
         <language>et</language>
         <news>
+- 0.0.17 - regexi parandus
+
 - 0.0.16 - Kodi Matrix tugi, väikesed muudatused
         </news>
         <assets>

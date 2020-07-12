@@ -1,3 +1,5 @@
+[B]Version 0.0.17[/B]
+- Regex fix / regexi parandus
 [B]Version 0.0.16[/B]
 - Kodi Matrix tugi, väikesed parandused
 [B]Version 0.0.15[/B]
