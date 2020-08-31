@@ -67,8 +67,9 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.jupiter.err.ee" version="0.0.5" name="Jupiter" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
+<addon id="plugin.video.jupiter.err.ee" version="0.0.6" name="Jupiter" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
     <requires>
+        <import addon="script.module.inputstreamhelper" version="0.5.0"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="addon.py">
         <provides>video</provides>
@@ -84,6 +85,8 @@
         <platform>all</platform>
         <language>et</language>
         <news>
+- 0.0.6 - DRMiga kaitstud sisu mängimine
+
 - 0.0.5 - Võimalus valida värve
 
 - 0.0.4 - Vene kino piltide leidmise parandus, koodipuhastus
