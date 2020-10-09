@@ -45,11 +45,9 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.etv.ee" version="0.0.22" name="ETV" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
+<addon id="plugin.video.etv.ee" version="0.0.23" name="ETV" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
     <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.buggalo" version="1.1.2"/>
-        <import addon="script.module.simplejson" version="3.3.0"/>
+        <import addon="script.module.inputstreamhelper" version="0.5.0"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="addon.py">
         <provides>video</provides>
@@ -58,12 +56,26 @@
         <summary lang="en">Watch ETV video archive</summary>
         <summary lang="et">Vaata ETV arhiivis olevaid saated</summary>
         <description lang="en">This plugin allows you to see shows from ETV .</description>
-	<description lang="et">Selle plugina abil saate vaadata ETV veebis olevaid saateid.</description>
-        <disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with your local laws. Plugin is as-is, without any warranty.</disclaimer>
+        <description lang="et">Selle plugina abil saate vaadata ETV veebis olevaid saateid.</description>
+        <disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with
+            your local laws. Plugin is as-is, without any warranty.
+        </disclaimer>
         <disclaimer lang="et">Plugin on as-is ilma igasuguse garantiita.</disclaimer>
         <license>GPLv2</license>
         <platform>all</platform>
         <language>et</language>
+        <news>
+- 0.0.23 - DRMiga kaitstud sisu mängimine
+            Kodi Matrix tugi
+        </news>
+        <assets>
+            <icon>resources/icon.png</icon>
+            <fanart>resources/etv.png</fanart>
+            <banner>resources/etv-logo.png</banner>
+            <screenshot>resources/screenshot-1.jpg</screenshot>
+            <screenshot>resources/screenshot-2.jpg</screenshot>
+            <screenshot>resources/screenshot-3.jpg</screenshot>
+        </assets>
     </extension>
 </addon>
 

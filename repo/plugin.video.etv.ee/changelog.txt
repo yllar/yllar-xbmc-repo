@@ -1,3 +1,6 @@
+[B]Version 0.0.23[/B]
+- DRM support / DRM tugi
+- Support for Kodi Matrix / Kodi Matrix tugi
 [B]Version 0.0.22[/B]
 - minor fix / väike parandus
 [B]Version 0.0.21[/B]
