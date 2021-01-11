@@ -45,7 +45,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.etv.ee" version="0.0.24" name="ETV" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
+<addon id="plugin.video.etv.ee" version="0.0.25" name="ETV" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
     <requires>
         <import addon="script.module.inputstreamhelper" version="0.5.0"/>
     </requires>
