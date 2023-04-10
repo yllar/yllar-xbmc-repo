@@ -79,7 +79,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.jupiter.err.ee" version="0.0.9" name="Jupiter" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
+<addon id="plugin.video.jupiter.err.ee" version="0.0.10" name="Jupiter" provider-name="Üllar Pajus [yllar.pajus@gmail.com]">
     <requires>
         <import addon="script.module.inputstreamhelper" version="0.5.0"/>
         <import addon="script.module.requests" version="2.22.0" />
@@ -98,6 +98,8 @@
         <platform>all</platform>
         <language>et</language>
         <news>
+- 0.0.10 - Possible workaround for stream freezing
+
 - 0.0.9 - fix #4 - broke support for Kodi v18
 
 - 0.0.8 - otsing + mõned muudatused
@@ -182,7 +184,9 @@
 
 <addon id="repository.yllar" name="Yllar's XBMC Addons" version="1.0.1" provider-name="yllar">
   <extension point="xbmc.addon.repository" name="Yllar's XBMC Addon Repository">
+  <dir>
     <datadir zip="true">https://github.com/yllar/yllar-xbmc-repo/raw/master/repo/</datadir>
+  </dir>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Install yllar's Addons</summary>
